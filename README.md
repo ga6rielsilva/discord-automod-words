@@ -17,12 +17,13 @@ Basta seguir os passos do GIF abaixo!
 
 > Lista de caracteres inadequados: Clique [AQUI](https://raw.githubusercontent.com/DarkPizza/discord-automod-words/main/KeywordFilter03)
 
-> Lista de códigos regex: Clique [AQUI](https://comunidade.gitbook.io/escoteiros/recursos/ferramentas/regex](https://xxgustavoxx.notion.site/Regex-0324d0c5533c4cfe97d3806c06b03690)
+> Lista de códigos regex: Clique [AQUI](https://xxgustavoxx.notion.site/Regex-0324d0c5533c4cfe97d3806c06b03690)
 
 ## Servidores grandes que utilizam nossa lista
 
 - Comunidade Escoteiros (https://discord.gg/escoteiros)
 - Apê da Alfacusa (https://discord.gg/alfacusa)
+- Elixir Lab (https://discord.gg/elixirlab)
 
 ## Contribuidores
 Agradecemos a todos os [contribuidores](https://github.com/DarkPizza/discord-automod-words/graphs/contributors) que ajudaram a expandir esse projeto.
