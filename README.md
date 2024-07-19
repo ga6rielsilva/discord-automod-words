@@ -1,11 +1,9 @@
 # Discord Automod Words
 
-
 ## Sobre
 Lista completa de palavras feias para bloquear através do Automod do Discord, essa lista é atualizada com frequência pelos colaboradores autorizados, então fique de olho nos [commits](https://github.com/DarkPizza/discord-automod-words/commits).
 
 Caso você ache que tem alguma palavra que não deveria estar nessa lista, ou que deveria estar nessa lista estamos abertos à [Pull Requests](https://github.com/DarkPizza/discord-automod-words/pulls).
-
 
 ## Como Utilizar?
 Vá nas configurações do seu servidor e procure pela opção `AutoMod`.
@@ -19,14 +17,12 @@ Basta seguir os passos do GIF abaixo!
 
 > Lista de caracteres inadequados: Clique [AQUI](https://raw.githubusercontent.com/DarkPizza/discord-automod-words/main/KeywordFilter03)
 
-> Lista de códigos regex: Clique [AQUI](https://comunidade.gitbook.io/escoteiros/recursos/ferramentas/regex)
+> Lista de códigos regex: Clique [AQUI](https://comunidade.gitbook.io/escoteiros/recursos/ferramentas/regex](https://xxgustavoxx.notion.site/Regex-0324d0c5533c4cfe97d3806c06b03690)
 
 ## Servidores grandes que utilizam nossa lista
-Apê da Alfacusa (https://discord.gg/alfacusa)
 
-Discord Escoteiros (https://discord.gg/escoteiros)
-
-Brasil by Daylight (https://discord.gg/brbydaylight)
+- Comunidade Escoteiros (https://discord.gg/escoteiros)
+- Apê da Alfacusa (https://discord.gg/alfacusa)
 
 ## Contribuidores
 Agradecemos a todos os [contribuidores](https://github.com/DarkPizza/discord-automod-words/graphs/contributors) que ajudaram a expandir esse projeto.
